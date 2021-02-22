@@ -32,7 +32,7 @@
 
 <a href="https://github.com/Paras0-7">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paras Rawat&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paras0-7&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&theme=buefy&layout=compact" />
 </a>
 
