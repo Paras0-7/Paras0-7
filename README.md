@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/Paras0-7">
-  [![HitCount](http://hits.dwyl.io/Paras0-7/badges.svg)](http://hits.dwyl.io/Paras0-7/badges)
-
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satu0king&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&theme=buefy&layout=compact" />
 </a>
 
