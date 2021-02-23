@@ -42,9 +42,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://paras0-7.github.io/portfolio/index.html"><img alt="Website"
+<a href="https://paras0-7.github.io/portfolio/index.html" target="blank_"><img alt="Website"
 src="https://img.shields.io/badge/Website-Paras Rawat-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/parasrawat07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paras%20Rawat-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/parasrawat07/" target="blank_"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paras%20Rawat-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:parasrawat937@gmai;.com"><img alt="Email" src="https://img.shields.io/badge/Email-parasrawat937@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
