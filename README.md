@@ -19,7 +19,7 @@
     <div class="img1">
 <p align='center'>
 <a href="https://www.linkedin.com/in/parasrawat07/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:parasrawat937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://paras0-7.github.io/portfolio/index.html" target="blank_"><img alt="Website"
-src="https://iconarchive.com/show/chrome-icons-by-google/Google-Chrome-icon.html" width="47"></a>
+src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.png" width="47"></a>
 </div>
 </body>
    
