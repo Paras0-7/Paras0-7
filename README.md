@@ -41,7 +41,7 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png)
+  ![Python](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png width="47")
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
