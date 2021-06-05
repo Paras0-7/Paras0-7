@@ -40,23 +40,27 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  <img alt="Python" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" width="47">
-  <img alt="Java" src = "https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" width = "47">
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 - 🌐 &nbsp;
-  <img alt="HTML5" src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/html-5-icon.png" width="47">
-  <img alt="CSS" src="https://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png" width="47">
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  
 - 🛢 &nbsp;
-  <img alt="MySQL" src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Files-Sql-icon.png" width="47">
-  <img alt="MongoDB" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="47">
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  <img alt="Git" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/git-icon.png" width="47">
-  <img alt="GitHub" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="47">
-  <img alt="MarkDown" src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/512/text-x-markdown-icon.png" width="47">
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  <img alt="Visual Studio Code" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" widht"47">
-  <img alt="Jupyter Notebook" src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" width ="47>
- <img alt="Sublime Text" src = "https://avatars.githubusercontent.com/u/684879?s=200&v=4" width = "47">
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter&logoColor=007ACC)
+  ![Sublime Text](https://avatars.githubusercontent.com/u/684879?s=200&v=4)
+  
+ 
   
 
 
