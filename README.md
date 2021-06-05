@@ -58,7 +58,6 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter&logoColor=007ACC)
-  ![Sublime Text](https://avatars.githubusercontent.com/u/684879?s=200&v=4)
   
  
   
