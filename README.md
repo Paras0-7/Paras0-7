@@ -31,7 +31,7 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA concepts and Competitive Programming
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/parasrawat07/), [Gmail](parasrawat937@gmail.com)
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/parasrawat07/), [Gmail](goto:parasrawat937@gmail.com)
 
 <!-- - ⚡ Fun fact: Why not maintain streak of green squares 🟩 on Github being a developer, Snapchat is now too old fashioned 😒 -->
  
