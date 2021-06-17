@@ -80,7 +80,7 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 <h2 align="center"> Languages Used </h2>
   <p align = "center">
     <a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&show_icons=true&theme=radical" alt="Iamtripathisatyam" widht ="240"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&show_icons=true&theme=radical" alt="Iamtripathisatyam" widht ="300"/>
     </a>
     </p>
 
