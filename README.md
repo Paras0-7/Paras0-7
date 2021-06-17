@@ -77,10 +77,10 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paras0-7&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  
-<h2 align="center">
+<h2 align="center"> Languages Used </h2>
   <p align = "center">
     <a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&theme=buefy&layout=compact" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0-7&show_icons=true&theme=radical" alt="Iamtripathisatyam" />
     </a>
     </p>
 
