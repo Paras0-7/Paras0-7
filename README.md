@@ -76,7 +76,9 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paras0-7&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
- </p>  
+ </p> 
+
+<br/>
 
 
 <p align="center">
