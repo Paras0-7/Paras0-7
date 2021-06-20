@@ -96,5 +96,8 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/Paras0-7)! :v: 
+<br>
+<br>
 
+![built with love](https://forthebadge.com/images/badges/built-with-love.svg)
 
