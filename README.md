@@ -27,7 +27,7 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m currently a 3rd year Undergrad
+- 🔭 I’m currently a 4rd year Undergrad
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA concepts and Competitive Programming
