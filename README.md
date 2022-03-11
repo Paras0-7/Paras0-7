@@ -8,7 +8,7 @@
 
 <br>
 
-<h2> <b>Hey</b> 𝐭𝐡𝐞𝐫𝐞, System.out.println("Developers 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> <b>Hey</b> 𝐭𝐡𝐞𝐫𝐞, console.log("Developers 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h1 align="center"> I'm Paras Rawat 🤗 </h1>
 
 
@@ -30,7 +30,6 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 - 🔭 I’m currently a 4rd year Undergrad
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with DSA concepts and Competitive Programming
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/parasrawat07/), [Gmail](mailto:parasrawat937@gmail.com)
 
 ⚡ Fun fact: Why not maintain streak of green squares 🟩 on Github being a developer, Snapchat is now too old fashioned 😒 
