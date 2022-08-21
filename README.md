@@ -18,7 +18,7 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/parasrawat07/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:parasrawat937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://paras0-7.github.io/portfolio/index.html" target="blank_"><img alt="Website"
+<a href="https://www.linkedin.com/in/parasrawat07/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:parasrawat937@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://paras.vercel.app" target="blank_"><img alt="Website"
 src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.png" width="47"></a>
 </div>
 </body>
@@ -27,8 +27,7 @@ src="https://icons.iconarchive.com/icons/google/chrome/256/Google-Chrome-icon.pn
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m currently a 4rd year Undergrad
-- 🌱 I’m currently learning DSA 
+- 🔭 I’m Front-End Developer at EPAM
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/parasrawat07/), [Gmail](mailto:parasrawat937@gmail.com)
 
